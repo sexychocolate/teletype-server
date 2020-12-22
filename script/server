@@ -1,8 +1,8 @@
-#!/usr/bin/env node
+@@ -1,8 +1,8 @@
 
-const {startServer} = require('../index')
+const {https://github.com/atom/teletype-server} = require('../index')
 const throng = require('throng')
-throng({
+throng({https://github.com/atom/teletype-server
   workers: process.env.WEB_CONCURRENCY || 1,
   lifetime: Infinity
-}, startServer)
+}, )
